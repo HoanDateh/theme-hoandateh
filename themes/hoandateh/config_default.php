@@ -14,4 +14,4 @@ $config_theme = array();
 
 $config_theme['show_logo'] = 1;
 $config_theme['show_site_name'] = 1;
-$config_theme['module_in_menu'] = array( 'about', 'users', 'contact', 'statistics', 'voting', 'banners', 'seek', 'feeds' );
+$config_theme['module_in_menu'] = array( 'news', 'users', 'contact', 'statistics', 'voting', 'banners', 'seek', 'page' );
